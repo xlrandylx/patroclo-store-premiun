@@ -16,9 +16,5 @@
         @yield('content')
     </main>
 
-    <div class="bg-red-500">
-        @yield('content2')
-    </div>
-
 </body>
 </html>
