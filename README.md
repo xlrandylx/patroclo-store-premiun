@@ -19,3 +19,6 @@
 # pasos para ejecutar el proyecto ( en paralelo ambas terminales)
 - ejecutar en una terminal: npm run dev
 - ejecutar en una terminal: php artisan serve
+
+# comandos mas usados
+- php artisan make:controller CategoriaController
