@@ -13,7 +13,9 @@
     </header>
 
     <main>
-        @yield('content')
+        <div class="max-w-[1080px] pt-5 m-auto">
+            @yield('content')
+        </div>
     </main>
 
 </body>
