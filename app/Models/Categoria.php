@@ -14,4 +14,9 @@ class Categoria extends Model
     ];
 
     public $timestamps = false;
+
+    // Relación uno a muchos
+    public function subcategorias(){
+        return $this->hasMany(SubCategoria::class, 'id_categoria', 'id_categoria');
+    }
 }
