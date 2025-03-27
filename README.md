@@ -23,3 +23,8 @@
 # comandos mas usados
 - php artisan make:controller CategoriaController
 - php artisan make:model Categoria
+
+# Estudiante
+- José Randy Rodrigo Choque
+# Video
+- https://drive.google.com/file/d/17Vi2cru6nH_F-vgCGnQ7qQAyoXEgTsj7/view?usp=sharing
